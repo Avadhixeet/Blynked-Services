@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Blynk"
+  id="myeclipse.1437455175430"
+  context-root="/Blynk"
+  j2ee-spec="5.0"
+  archive="Blynk.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
